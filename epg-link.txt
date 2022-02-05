@@ -1,0 +1,9 @@
+A-Network
+https://a-network.ca
+
+
+
+
+EPG For Free M3U Link: (Paste Link Into Your IPTV App)
+-----------------------
+http://a-network.ca:34400/xmltv/xteve.xml?username=test&password=test

@@ -1,0 +1,8 @@
+A-Network
+https://a-network.ca
+
+
+
+M3U Link: (Paste Into Your IPTV App)
+------------------------------------
+http://a-network.ca:34400/m3u/xteve.m3u?username=test&password=test
